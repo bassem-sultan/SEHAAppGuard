@@ -1,4 +1,4 @@
-#import <Cordova/CDV.h>
+SehaGuardPlugin#import <Cordova/CDV.h>
 #import <sys/stat.h>
 #import <dlfcn.h>
 #import <mach-o/dyld.h>
